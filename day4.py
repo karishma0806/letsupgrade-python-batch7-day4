@@ -11,6 +11,7 @@ for  num in range(l,v+1):
         t=t//10
     if (num == sum):
         print(sum)
+        break
         
 
 
